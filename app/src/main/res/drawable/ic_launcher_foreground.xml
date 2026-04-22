@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+ xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Mathematical Symbol Grouping within 66x66 safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,34h12v4h-12zM38,30v12h4v-12z" /> <!-- Plus Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,38h12v4h-12z" /> <!-- Minus Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,66h12v4h-12zM34,72h12v4h-12z" /> <!-- Equals Symbol -->
+    <!-- Stylized Sine Wave (Trigonometry representation) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,65c2,0 3,6 5,6s3,-6 5,-6s3,6 5,6v4c-2,0 -3,-6 -5,-6s-3,6 -5,6s-3,-6 -5,-6z" />
+</vector>
